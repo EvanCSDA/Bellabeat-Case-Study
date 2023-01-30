@@ -12,3 +12,15 @@ Before the files coud be worked with in SQL there was an issue with 14 of the fi
 ## Summary of Analysis
 In summary, the analysis showed that the majority of time (81%) , FitBit users were engaged in sedentary activity. Followed by that was light activity (16%). Very active and fairly active activity were nearly identical at less than 2% of the average daily
 time.
+
+## Supporting Visualizations and Key Findings
+1. Fitbit users are not weekend warriors. They are workinng people who likely spend many hours sitting in their office chairs.
+2. Light activities comprised the majoority of non-sedentary movement and time spent.
+
+![% Intensity](https://user-images.githubusercontent.com/122660685/215571823-4e30166f-aaac-4371-8df5-6ff6416cb744.png)
+![Percent](https://user-images.githubusercontent.com/122660685/215572105-f0907352-1769-427c-9dfe-b66f76e98ec8.png)
+
+## Recommendations
+1. To increase activity, send more notifications to get users to move more.
+2. Recommend different types of light activity.
+3. Recommend different intensity activities for users throughout the day.
