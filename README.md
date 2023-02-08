@@ -15,7 +15,7 @@ time.
 
 ## Supporting Visualizations and Key Findings
 1. Fitbit users are not weekend warriors. They are workinng people who likely spend many hours sitting in their office chairs.
-2. Light activities comprised the majoority of non-sedentary movement and time spent.
+2. Light activities comprised the majority of non-sedentary movement and time spent.
 
 ![% Intensity](https://user-images.githubusercontent.com/122660685/215571823-4e30166f-aaac-4371-8df5-6ff6416cb744.png)
 ![Percent](https://user-images.githubusercontent.com/122660685/215572105-f0907352-1769-427c-9dfe-b66f76e98ec8.png)
